@@ -1,6 +1,6 @@
-# Member Tracking AI Camera
+# Discord Vision
 ## I. Overview
-Develop a member tracking AI Camera system that help tracking members' activities at Lab's headquarter by integrating Detection and Recognition deep learning model.
+Develop an AI Camera system that help detecting and notify members' activities at Lab's headquarter to Discord server by integrating Detection and Recognition deep learning model.
 
 ## II. What you can receive
 - Learn how to develop each step in a machine learning lifecycle: data preparation, model development, model deployment, model monitoring.
@@ -11,7 +11,7 @@ Develop a member tracking AI Camera system that help tracking members' activitie
 - TFX (Tensorflow).
 - Discord API.
 
-## IV. Key Features`
+## IV. Key Features
 - The system can detect and identify which member is currently working at TickLab.
 - The system can notify Discord channel of active member at TickLab.
 
